@@ -1,3 +1,5 @@
+> 供个人使用，修改了时区，并添加了 homebridge-config-ui 插件。
+
 # Community Hass.io Add-on: Homebridge
 
 ![Project Stage][project-stage-shield]
