@@ -26,6 +26,8 @@ RUN apk add --no-cache jq git python make g++ libffi-dev openssl-dev dbus \
       homebridge@0.4.28 \
       homebridge-homeassistant@2.3.1 \
       homebridge-config-ui \
+      homebridge-mi-air-purifier miio \
+      homebridge-mi-fan && \
     chmod a+x /run.sh
 
 # Copy configuration files
